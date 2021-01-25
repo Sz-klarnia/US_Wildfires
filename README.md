@@ -17,8 +17,8 @@ Second part of the project was to classify fires based on size, location, length
 US-Wildfires-Analysis-Visualisation: file contains analysis and static visualisations of data\
 US-Wildfires-Modeling: file contains classifier\
 Visualization - 2014 CA Fires: animated visualization of Wildfires in CA in 2014\
-Visualization - Fires Yearly: animated visualization of all wildfires per year\
+Visualization - Fires Yearly: animated visualization of all wildfires per year
 
 scripts: additional functions\
 vector map folder: vector map of US divided by states\
-plot_2014.rar: gif build from Visualization - 2014 CA Fires\
+plot_2014.rar: gif build from Visualization - 2014 CA Fires
