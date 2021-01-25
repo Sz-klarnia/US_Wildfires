@@ -1,7 +1,7 @@
 # US_Wildfires
 
 ## Data
-Data was downloaded from kaggle: https://www.kaggle.com/rtatman/188-million-us-wildfires
+Data was downloaded from kaggle: https://www.kaggle.com/rtatman/188-million-us-wildfires. As the database file is too big to upload on github, you can download it from kaggle.
 
 Data contains geolocalized data for 1.88 milions of wildfires occuring in the United States from 1992 until 2015. All of the incidents have specified time span of the fire, size and number of id's from different wildfire agencies
 
